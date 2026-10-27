@@ -47,6 +47,7 @@ pie title 90-Day QRadar Mastery Curriculum (100% Complete)
 ### 🗺️ [Master Dashboard & Roadmap](./00%20-%20Master%20Dashboard%20%26%20Roadmap)
 - 📋 **[90-Day Master Roadmap](./00%20-%20Master%20Dashboard%20%26%20Roadmap/00_90_Day_Master_Roadmap.md)**: Full daily curriculum breakdown with hyperlinked chapters.
 - 📊 **[Progress & Mastery Tracker](./00%20-%20Master%20Dashboard%20%26%20Roadmap/01_Progress_Tracker.md)**: 11-Domain Production Competency Scorecard and chapter completion matrix.
+- 📚 **[Official IBM Documentation & KB References](./00%20-%20Master%20Dashboard%20%26%20Roadmap/02_Official_IBM_Documentation_and_Knowledge_Base_References.md)**: Comprehensive mapping of all curriculum chapters to official IBM documentation, Redbooks, and technical notes.
 
 ---
 
